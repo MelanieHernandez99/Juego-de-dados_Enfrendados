@@ -138,7 +138,11 @@ rlutil::locate(40,17);
 cout<<"|                                         |"<<endl;
 
 rlutil::locate(40,18);
+<<<<<<< HEAD
 cout<<"|    melanie hernandez , legajo:28748     |"<<endl;
+=======
+cout<<"|    melanie hernandez ,                  |"<<endl;
+>>>>>>> a961869 (Proyecto final: Juego de Dados)
 rlutil::locate(40,19);
 cout<<"|                                         |"<<endl;
 rlutil::locate(40,20);

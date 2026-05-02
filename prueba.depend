@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1753823693 source:c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\main.cpp
+	"funciones.h"
+	"menu.h"
+	<iostream>
+	<ctime>
+	"rlutil.h"
+
+1753799730 c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\funciones.h
+	<iostream>
+	<vector>
+
+1753823693 source:c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+	<vector>
+	<cstdlib>
+
+1751353200 c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1753799351 source:c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1753799730 c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\menu.h
+
+1750372639 c:\users\lionel morales\desktop\juego enfrendados 8del 6 de 2025\prueba\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"funciones.h"
+
+1751352476 source:c:\users\rodri\onedrive\escritorio\asdassda\proyecto-enfrendados\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+	<vector>
+
+1751337967 c:\users\rodri\onedrive\escritorio\asdassda\proyecto-enfrendados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1751351879 c:\users\rodri\onedrive\escritorio\asdassda\proyecto-enfrendados\funciones.h
+	<iostream>
+	<vector>
+
+1751337967 source:c:\users\rodri\onedrive\escritorio\asdassda\proyecto-enfrendados\main.cpp
+	"funciones.h"
+	"menu.h"
+	<iostream>
+	<ctime>
+	"rlutil.h"
+
+1751351813 c:\users\rodri\onedrive\escritorio\asdassda\proyecto-enfrendados\menu.h
+
+1751352850 source:c:\users\rodri\onedrive\escritorio\asdassda\proyecto-enfrendados\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"funciones.h"
+	"menu.h"
+
+1775871311 source:g:\utn\programing 1\juego enfrendados\main.cpp
+	"menu.h"
+	<iostream>
+	<ctime>
+	"rlutil.h"
+
+1777752356 g:\utn\programing 1\juego enfrendados\menu.h
+	<string>
+	<iostream>
+
+1751353200 g:\utn\programing 1\juego enfrendados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1777751912 source:g:\utn\programing 1\juego enfrendados\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	<vector>
+	<cstdlib>
+
+1777752504 source:g:\utn\programing 1\juego enfrendados\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+	"funciones.h"
+
+1777752674 g:\utn\programing 1\juego enfrendados\funciones.h
+	<string>
+	<iostream>
+
